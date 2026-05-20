@@ -19,10 +19,8 @@ A classic console Snake Game made using C++.
 - SPACEBAR → Pause
 -  → Exit game
 
-## Technologies Used
+## Language Used
 - C++
-- windows.h
-- conio.h
 
 ## Author
 Jyotirmoy Majumdar
